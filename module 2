@@ -1,0 +1,23 @@
+male = []
+female = []
+user = []
+name = " "
+age = " "
+gender = " "
+print('Enter your name ')
+name = input()
+print('Enter your age ')
+age = input()
+print('Enter your gender ')
+gender = input()
+while name <> " ":
+    name = input('Enter a name or press enter to exit: ')
+    user.append(name)
+    if name == " ":
+        break
+    age == int(input('Enter age: ')
+               sex == input('Enter sex (M/F): ')
+               if sex == 'M':
+               male.append(age)
+               if sex == 'F':
+               female.append(age)
